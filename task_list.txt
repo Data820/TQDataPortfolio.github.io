@@ -1,0 +1,6 @@
+Go grocery shopping,Home,False
+Finish project report,Work,False
+Work out at the gym,Health,False
+Buy a cat,Home ,False
+Buy a dog,Home ,False
+Buy a dog,Home ,False
